@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "https://anu2205.github.io/csb-mrsnuf/static/css/main.3da07a52.css",
+    "main.js": "https://anu2205.github.io/csb-mrsnuf/static/js/main.5b8d1b5b.js",
+    "static/media/google-maps.png": "https://anu2205.github.io/csb-mrsnuf/static/media/google-maps.738e85c0c738acabf3ea.png",
+    "index.html": "https://anu2205.github.io/csb-mrsnuf/index.html",
+    "main.3da07a52.css.map": "https://anu2205.github.io/csb-mrsnuf/static/css/main.3da07a52.css.map",
+    "main.5b8d1b5b.js.map": "https://anu2205.github.io/csb-mrsnuf/static/js/main.5b8d1b5b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3da07a52.css",
+    "static/js/main.5b8d1b5b.js"
+  ]
+}
